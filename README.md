@@ -8,5 +8,5 @@ Ceci est un projet Python pour gérer les réservations d'hôtel.
 ## Utilisation
 - Exécuter le fichier `main.py` pour lancer l'application.
 
-## Auteur
-Aziza Osalh
+# auteur 
+aya bllous et aziza osalh
